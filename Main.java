@@ -17,6 +17,3 @@ class Main {
         System.out.println("Kobieta");
   }
 }
-
-
-}
